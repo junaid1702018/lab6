@@ -41,6 +41,9 @@ int Box::get_height()
 {
 return height;
 }
+Box::~Box()
+{
+}
 
 
 
