@@ -1,3 +1,3 @@
 # lab6 
-Muhammad Junaid hassan
+Muhammad Junaid Hassan
 Tabraiz Hassan
